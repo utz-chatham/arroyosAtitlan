@@ -1,4 +1,4 @@
-# Cuencas del Lago de Atitlán
+# Arroyos del Lago de Atitlán
 
 Mapa y figuras interactivos de los arroyos del lago de Atitlán.
 
