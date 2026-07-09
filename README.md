@@ -11,3 +11,7 @@ Mapa y figuras interactivos de los arroyos del lago de Atitlán.
 Macroinvertebrados comunes en arroyos de Atitlán:
 
 [Trichoptera: Diplectrona](https://www.macroinvertebrates.org/taxa-characters/trichoptera-larva/hydropsychidae/diplectrona/lateral)
+
+[Ephemeroptera: Baetis](https://www.macroinvertebrates.org/taxa-characters/ephemeroptera-larva/baetidae/baetis/dorsal)
+
+[Coleoptera: Agabus](https://www.macroinvertebrates.org/taxa-characters/coleoptera-larva/dytiscidae/agabus/dorsal)
